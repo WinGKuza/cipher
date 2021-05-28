@@ -49,6 +49,7 @@
         android:layout_height="46dp"
         android:onClick="sendMessage"
         android:text="Отправить"
+        android:textColor="#000000"
         android:backgroundTint="#00FFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
